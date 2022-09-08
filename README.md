@@ -20,8 +20,6 @@
 
 [Download python](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
 
-Vào link trên, kéo xuống chọn bản 3.9.xx mới nhất (theo hình là 3.9.14)
-![Python 3.9.14](https://github.com/calisfed/py4hhh/blob/main/img/pydown.png)
 
 Cài đặt để ý tick 2 ô như hình
 
@@ -34,9 +32,8 @@ Cài đặt để ý tick 2 ô như hình
 
 ### Visual Studio Code
 
-[Download VSCode](https://code.visualstudio.com/)
+[Download VSCode](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
 
-Vào link trên, nhấn `Download for Windows` rồi về cài đặt như bình thường
 
 > **Note**: Nên có 1 account [Microsoft](https://account.microsoft.com/account) hoặc [Github](https://github.com/) (Recommend) để lưu settings của Vscode lên cloud, sau này có cài lại cũng tiện.
 
