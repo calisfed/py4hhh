@@ -1,5 +1,19 @@
 # Python for hội hiếu học
 
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=3 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [DOWNLOAD](#download)
+  - [Python](#python)
+  - [Visual Studio Code](#visual-studio-code)
+- [Tạo folder](#tạo-folder)
+- [Một số những cái cần biết khi code python](#một-số-những-cái-cần-biết-khi-code-python)
+
+<!-- /code_chunk_output -->
+
+
 ## DOWNLOAD
 
 ### Python
@@ -33,7 +47,7 @@ Vào link trên, nhấn `Download for Windows` rồi về cài đặt như bình
 3. `Chuột phải` vào folder `Code`, chọn `Open with Vscode` để mở folder trong Vscode. Nếu nó hiện lên cái `Trusted Domains` thì cứ `yes`
 4. Hiện trong vscode là `Untitled file` chưa có đuôi, lưu file này lại (`Crtl + S`) với đuôi `.py`
    > con_mang_xa_Minh_Thin.py
-   
+
    > Mua_do_an_ma_baby.py
 5. Rồi giờ thì code trong này được rồi (sau khi đã cài đống ở trên)
 
