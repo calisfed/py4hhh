@@ -18,7 +18,7 @@
 
 ### Python
 
-[Download python](https://www.python.org/downloads/)
+[Download python](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
 
 Vào link trên, kéo xuống chọn bản 3.9.xx mới nhất (theo hình là 3.9.14)
 ![Python 3.9.14](https://github.com/calisfed/py4hhh/blob/main/img/pydown.png)
