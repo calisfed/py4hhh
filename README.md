@@ -33,6 +33,7 @@ Vào link trên, nhấn `Download for Windows` rồi về cài đặt như bình
 3. `Chuột phải` vào folder `Code`, chọn `Open with Vscode` để mở folder trong Vscode. Nếu nó hiện lên cái `Trusted Domains` thì cứ `yes`
 4. Hiện trong vscode là `Untitled file` chưa có đuôi, lưu file này lại (`Crtl + S`) với đuôi `.py`
    > con_mang_xa_Minh_Thin.py
+   
    > Mua_do_an_ma_baby.py
 5. Rồi giờ thì code trong này được rồi (sau khi đã cài đống ở trên)
 
