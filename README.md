@@ -7,7 +7,7 @@
 [Download python](https://www.python.org/downloads/)
 
 Vào link trên, kéo xuống chọn bản 3.9.xx mới nhất (theo hình là 3.9.14)
-![Python 3.9.14](https://github.com/calisfed/py4hhh/blob/img/pydown.png)
+![Python 3.9.14](https://github.com/calisfed/py4hhh/blob/main/img/pydown.png)
 
 Cài đặt để ý tick 2 ô như hình
 
@@ -16,7 +16,7 @@ Cài đặt để ý tick 2 ô như hình
 - Add Python to PATH
 ```
 
-![Python installing](https://github.com/calisfed/py4hhh/blob/img/pyins.png)
+![Python installing](https://github.com/calisfed/py4hhh/blob/main/img/pyins.png)
 
 ### Visual Studio Code
 
