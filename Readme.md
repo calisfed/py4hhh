@@ -149,7 +149,7 @@ Adaboost
   - Using L1 & L2 regularization is effective to feature selection
   - The best algorithm for predicting probabilities of an event
   - Fast to train
-- Easy to train on big data thanks to its stochastic version
+  - Easy to train on big data thanks to its stochastic version
 - Cons
   - You have to work hard to make it fit nonlinear functions
   - Can suffer from outliers
