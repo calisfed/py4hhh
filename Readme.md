@@ -1,8 +1,24 @@
 # Pros and Cons of basic ML algorithms
 
-
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
+<!-- code_chunk_output -->
+
+- [Pros and Cons of basic ML algorithms](#pros-and-cons-of-basic-ml-algorithms)
+  - [Random Forest](#random-forest)
+  - [Gradient Boosting](#gradient-boosting)
+  - [Linear Regression](#linear-regression)
+  - [Support Vector Machine](#support-vector-machine)
+  - [K Nearest Neightbor](#k-nearest-neightbor)
+  - [Adaboost](#adaboost)
+  - [Native Bayes](#native-bayes)
+  - [Neutral Networks](#neutral-networks)
+  - [Logistic Regression](#logistic-regression)
+  - [SVD](#svd)
+  - [PCA](#pca)
+  - [K Means](#k-means)
+
+<!-- /code_chunk_output -->
 
 ## Random Forest
 
@@ -22,20 +38,20 @@
 
 ## Gradient Boosting
 
-| Gradient Boosting||
+| Gradient Boosting|
 |:-:|-|
 |Best fit|Apt at almost any ML problem
-|^|Search engines (solving the problem of learning to rank)
-|^|
+||Search engines (solving the problem of learning to rank)
+||
 |Pros|It can approximate most non linear function
-|^|Best in class predictor
-|^|Automatic handles missing values
-|^|No need to transform any values
-|^|
+||Best in class predictor
+||Automatic handles missing values
+||No need to transform any values
+||
 |Cons|It can overfit if run for too many iterations
-|^|Sensitive to noisy data and outliers
-|^|Doesn't work at its best without parameter tuning
-|^|
+||Sensitive to noisy data and outliers
+||Doesn't work at its best without parameter tuning
+||
 
 ## Linear Regression
 
@@ -192,6 +208,3 @@
 |^|Clusters are spherical, can't detect groups of other shape
 |^|Unstable solutions. depends on initialization
 |^|
-
-
-
