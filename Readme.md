@@ -40,9 +40,9 @@
 
 | Gradient Boosting|
 |:-:|-|
-|Best fit|Apt at almost any ML problem
-||Search engines (solving the problem of learning to rank)
-||
+|Best fit|<ul><li>Apt at almost any ML problem
+<li>Search engines (solving the problem of learning to rank)
+</ul>
 |Pros|It can approximate most non linear function
 ||Best in class predictor
 ||Automatic handles missing values
