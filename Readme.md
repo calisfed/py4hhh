@@ -39,7 +39,7 @@
 ## Gradient Boosting
 
 | Gradient Boosting|
-|:-:|-|
+|:-:|
 |Best fit|<ul><li>Apt at almost any ML problem
 <li>Search engines (solving the problem of learning to rank)
 </ul>
